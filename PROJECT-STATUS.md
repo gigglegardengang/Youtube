@@ -25,7 +25,6 @@ Video files live in Drive, not GitHub: `Giggle Garden Gang/Videos/`
 - `Clips/` (Clips 01–22), `Clips/Song 2/`, `Clips/Song 3/`, `Clips/Old versions/`
 - `Shorts/` (Shorts 1–8) and `Shorts/Old letterbox versions/`
 - Drive also has `Characters/`, `Backgrounds/`, `Channel Art/`, `Scenes/`, `Thumbnails/`, `Tools/` (copies of what's in this repo plus scenes and thumbnails)
-- About 12 leftover Mac junk files (`._...`, 4 KB each) still need trashing
 
 ## In the repo
 - Character poses: `Sunny/`, `Poppy/`, `Bo/`, `Zoom/`, `Lulu/`
