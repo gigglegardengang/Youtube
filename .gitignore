@@ -1,0 +1,14 @@
+# Video files are too large for GitHub; store them elsewhere
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.webm
+*.m4v
+*.prproj
+*.drp
+
+# Editor and OS clutter
+.DS_Store
+Thumbs.db
+*.tmp
