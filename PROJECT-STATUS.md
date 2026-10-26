@@ -24,7 +24,8 @@ Video files live in Drive, not GitHub: `Giggle Garden Gang/Videos/`
 - Finished videos 1–3, plus an old example version of video 1
 - `Clips/` (Clips 01–22), `Clips/Song 2/`, `Clips/Song 3/`, `Clips/Old versions/`
 - `Shorts/` (Shorts 1–8) and `Shorts/Old letterbox versions/`
-- The `._` files are leftover Mac junk files (4 KB each) and can be deleted.
+- Drive also has `Characters/`, `Backgrounds/`, `Channel Art/`, `Scenes/`, `Thumbnails/`, `Tools/` (copies of what's in this repo plus scenes and thumbnails)
+- About 12 leftover Mac junk files (`._...`, 4 KB each) still need trashing
 
 ## In the repo
 - Character poses: `Sunny/`, `Poppy/`, `Bo/`, `Zoom/`, `Lulu/`
@@ -36,11 +37,12 @@ Video files live in Drive, not GitHub: `Giggle Garden Gang/Videos/`
 - [x] Bo's character images
 - [x] Theme song mp3 (in Drive `Songs/`) and shot list
 - [ ] Theme song Suno settings (style prompt), if saved anywhere
-- [ ] **Scenes** (the ChatGPT still images used for clips and FREEZE poses, `Scenes/`): not in Drive or the repo yet
+- [x] Scenes (in Drive `Scenes/`, with `Song 2/` and `Song 3/`)
 - [x] Rendar clips, finished videos and Shorts (in Drive)
-- [ ] **Thumbnails** (`Thumbnail 1/2/3 ... .png`)
+- [x] Thumbnails 1–3 (in Drive `Thumbnails/`)
 - [x] YouTube links for videos 1–3, plus titles, descriptions, tags and settings (`published/`)
-- [ ] Confirm whether videos 1–3 are public, scheduled or unlisted; Shorts 1–8 not posted yet
+- [x] Videos 1–3 are public on YouTube
+- [ ] Shorts 1–8: posting one a day starting 2026-10-27, in the Day 1–8 order in `plan/shorts.md`
 
 ## Notes on the scripts
 - They point at files on the old Mac (`/Users/ladywealthwarrior/Kids Channel/...`) and Mac fonts, so they need updating to run from this repo.
