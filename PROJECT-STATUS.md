@@ -11,7 +11,7 @@ the Python scripts in `Tools/` cut the clips to the song and add sing-along text
 
 | # | Song | Lyrics / plan | Song audio | Clips | Finished video |
 | --- | --- | --- | --- | --- | --- |
-| 1 | Welcome to the Giggle Garden (theme song) | lyrics in `published/video-1-...md` | missing | Clips 01–22, in Drive | in Drive |
+| 1 | Welcome to the Giggle Garden (theme song) | lyrics in `published/video-1-...md`, shot list in `Songs/` | in Drive (`Songs/`) | Clips 01–22, in Drive | in Drive |
 | 2 | Poppy's Counting Spots | `Songs/Song 2 - Poppy's Counting Spots.md` | in `Songs/` | S2 Clips A–E, in Drive | in Drive |
 | 3 | The Wiggle Wiggle Garden Dance | `Songs/Song 3 - The Wiggle Wiggle Garden Dance.md` | in `Songs/` | S3 Clips P1, B1, Z1, Z2, L1, G1, in Drive | in Drive |
 
@@ -20,6 +20,7 @@ Eight finished Shorts are in Drive: 1 Zoom vs Lulu Race, 2 Breathe with Bo, 3 Ga
 
 ## Google Drive
 Video files live in Drive, not GitHub: `Giggle Garden Gang/Videos/`
+- `Songs/`: mp3s for songs 1–3 plus the song notes
 - Finished videos 1–3, plus an old example version of video 1
 - `Clips/` (Clips 01–22), `Clips/Song 2/`, `Clips/Song 3/`, `Clips/Old versions/`
 - `Shorts/` (Shorts 1–8) and `Shorts/Old letterbox versions/`
@@ -33,7 +34,8 @@ Video files live in Drive, not GitHub: `Giggle Garden Gang/Videos/`
 
 ## Still missing
 - [x] Bo's character images
-- [ ] **Theme song** audio (`Welcome to the Giggle Garden.mp3`) and its Suno settings (lyrics are in `published/`)
+- [x] Theme song mp3 (in Drive `Songs/`) and shot list
+- [ ] Theme song Suno settings (style prompt), if saved anywhere
 - [ ] **Scenes** (the ChatGPT still images used for clips and FREEZE poses, `Scenes/`): not in Drive or the repo yet
 - [x] Rendar clips, finished videos and Shorts (in Drive)
 - [ ] **Thumbnails** (`Thumbnail 1/2/3 ... .png`)
