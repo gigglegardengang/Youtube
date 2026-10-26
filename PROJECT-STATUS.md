@@ -11,23 +11,31 @@ the Python scripts in `Tools/` cut the clips to the song and add sing-along text
 
 | # | Song | Lyrics / plan | Song audio | Clips | Finished video |
 | --- | --- | --- | --- | --- | --- |
-| 1 | Welcome to the Giggle Garden (theme song) | missing | missing | Clips 01–22, not in the repo | not in the repo |
-| 2 | Poppy's Counting Spots | `Songs/Song 2 - Poppy's Counting Spots.md` | in `Songs/` | S2 Clips A–E, not in the repo | not in the repo |
-| 3 | The Wiggle Wiggle Garden Dance | `Songs/Song 3 - The Wiggle Wiggle Garden Dance.md` | in `Songs/` | S3 Clips P1, B1, Z1, Z2, L1, G1, not in the repo | not in the repo |
+| 1 | Welcome to the Giggle Garden (theme song) | missing | missing | Clips 01–22, in Drive | in Drive |
+| 2 | Poppy's Counting Spots | `Songs/Song 2 - Poppy's Counting Spots.md` | in `Songs/` | S2 Clips A–E, in Drive | in Drive |
+| 3 | The Wiggle Wiggle Garden Dance | `Songs/Song 3 - The Wiggle Wiggle Garden Dance.md` | in `Songs/` | S3 Clips P1, B1, Z1, Z2, L1, G1, in Drive | in Drive |
 
-The scripts also make three Shorts from video 1 (Zoom vs Lulu Race, Breathe with Bo, Garden Dance Along) and Shorts from videos 2 and 3.
+Eight finished Shorts are in Drive: 1 Zoom vs Lulu Race, 2 Breathe with Bo, 3 Garden Dance Along, 4 Hop and Count with Poppy,
+5 How Many Spots, 6 Freeze Dance with Poppy, 7 Freeze Dance with Bo, 8 Slow and Fast with Zoom.
+
+## Google Drive
+Video files live in Drive, not GitHub: `Giggle Garden Gang/Videos/`
+- Finished videos 1–3, plus an old example version of video 1
+- `Clips/` (Clips 01–22), `Clips/Song 2/`, `Clips/Song 3/`, `Clips/Old versions/`
+- `Shorts/` (Shorts 1–8) and `Shorts/Old letterbox versions/`
+- The `._` files are leftover Mac junk files (4 KB each) and can be deleted.
 
 ## In the repo
-- Character poses: `Sunny/`, `Poppy/`, `Zoom/`, `Lulu/`
+- Character poses: `Sunny/`, `Poppy/`, `Bo/`, `Zoom/`, `Lulu/`
 - `Backgrounds/` (8), `Channel Art/` (banner, logos, profile icons)
 - Song 2 and 3 audio and plans in `Songs/`
 - Video-making scripts in `Tools/`
 
 ## Still missing
-- [ ] **Bo's character images** (`Bo/` folder: e.g. "Bo Flying and Waving", "Bo Dancing V2", "Bo Huggable V2")
+- [x] Bo's character images
 - [ ] **Theme song** audio (`Welcome to the Giggle Garden.mp3`) and its lyrics/plan
-- [ ] **Scenes** (the ChatGPT still images used for clips and FREEZE poses, `Scenes/`), going to Google Drive
-- [ ] **Rendar clips** (`Videos/Clips/`) and **finished videos and Shorts**, going to Google Drive
+- [ ] **Scenes** (the ChatGPT still images used for clips and FREEZE poses, `Scenes/`): not in Drive or the repo yet
+- [x] Rendar clips, finished videos and Shorts (in Drive)
 - [ ] **Thumbnails** (`Thumbnail 1/2/3 ... .png`)
 - [ ] Which videos are already live on YouTube, and their titles, descriptions and links
 
